@@ -18,6 +18,9 @@ build:
 
 requirements:
   build:
+    - {{ compiler('c') }}
+
+  host:
     - python
     - setuptools
     - ply >=3.4,<4.0
