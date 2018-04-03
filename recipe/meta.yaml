@@ -51,6 +51,7 @@ test:
 about:
   home: https://thriftpy.readthedocs.org/
   license: MIT
+  license_family: MIT
   summary: 'Pure python implementation of Apache Thrift.'
 
 extra:
